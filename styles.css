@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    text-align: center;
+
+}
+
+
+
+ul{
+    border: 5px outset;
+    list-style: none;
+    text-align: center;
+    padding-left: 0%;
+    width: 25%;
+    margin: auto;
+
+}
+
+
+ul li{
+    border: 3px outset;
+    display: inline-block;
+
+}
+
+img{
+    display: block;
+    width: 25%;
+    margin: auto;
+
+}
+
+
+
+
+
+
+
